@@ -156,9 +156,9 @@ Apasionado por crear soluciones tecnológicas **innovadoras, escalables y segura
 
 **Siempre abierto a nuevas oportunidades, colaboraciones y retos tecnológicos.**
 
-- **Email profesional:** [contact@fxxmorgan.dev](mailto:contact@fxxmorgan.dev)
+- **Email profesional:** [contact@fxxmorgan.me](mailto:contact@fxxmorgan.me)
 - **LinkedIn:** [/in/fxxmorgan](https://www.linkedin.com/in/fxxmorgan/)
-- **Portfolio:** [fxxmorgan.github.io](https://fxxmorgan.github.io)
+- **Portfolio:** [fxxmorgan.github.io]([https://fxxmorgan.github.io](https://fxxmorgan.github.io/Portfolio/))
 
 ### Áreas de Interés para Colaborar
 - Proyectos de desarrollo web full stack
